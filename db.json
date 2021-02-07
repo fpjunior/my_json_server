@@ -1,11 +1,11 @@
 {
   "filmes": [
     {
-      "id": 2,
-      "nome": "PERDIDO EM MARTE",
-      "genero": "FICÇÃO",
-      "estrela": "6",
-      "anolanc": "2000"
+   "codigoIndicador": 1,
+      "indicadorFrequencia": "23:59",
+      "indicadorNivel1": "024:00",
+      "IndicadorNivel2": "048:00",
+      "indicadorProximaAtualizacao": "2021-02-05"
     },
     {
       "nome": "A LAGOA AZUL",
