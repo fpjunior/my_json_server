@@ -1,20 +1,19 @@
 {
-  
-  
-    "data": [
+  "filmes": [
     {
-      "codigoIndicador": 1,
+   "codigoIndicador": 1,
       "indicadorFrequencia": "23:59",
       "indicadorNivel1": "024:00",
       "IndicadorNivel2": "048:00",
-      "indicadorProximaAtualizacao": "2021-02-05",
+      "indicadorProximaAtualizacao": "2021-02-05"
     },
-         {
-      "codigoIndicador": 2,
+    {
+   "codigoIndicador": 2,
       "indicadorFrequencia": "24:59",
       "indicadorNivel1": "025:00",
       "IndicadorNivel2": "049:00",
-      "indicadorProximaAtualizacao": "2021-02-05",
-    },
-      ]
+      "indicadorProximaAtualizacao": "2021-02-05"
+    }
+    
+  ]
 }
